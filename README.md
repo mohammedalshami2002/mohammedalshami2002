@@ -1,12 +1,15 @@
-# 👋 Hi, I'm Mohammad Alshami
+## 👋 Hi, I'm Mohammad Alshami
 
 **Backend Developer | PHP & Laravel Enthusiast**
 
+Backend Developer with **4+ years of experience** in building, enhancing, and maintaining web applications using **PHP and Laravel**. Skilled in designing secure, scalable systems and collaborating effectively in team settings. Experienced in delivering high-quality solutions both remotely and on-site.
 
-Backend Developer with **3+ years of experience** in building, enhancing, and maintaining web applications using **PHP and Laravel**. Skilled in designing secure, scalable systems and collaborating effectively in team settings. Experienced in delivering high-quality solutions both remotely and on-site.
+
 ---
 
+
 ## ⚡ Skills & Tools
+
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -22,6 +25,8 @@ Backend Developer with **3+ years of experience** in building, enhancing, and ma
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+
 ---
 
 
@@ -29,8 +34,6 @@ Backend Developer with **3+ years of experience** in building, enhancing, and ma
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MohammadAlshami&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAlshami&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
