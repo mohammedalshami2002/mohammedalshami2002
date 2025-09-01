@@ -6,12 +6,7 @@
 Backend Developer with **3+ years of experience** in building, enhancing, and maintaining web applications using **PHP and Laravel**. Skilled in designing secure, scalable systems and collaborating effectively in team settings. Experienced in delivering high-quality solutions both remotely and on-site.
 ---
 
-
-
-
-
 ## ⚡ Skills & Tools
-
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -28,6 +23,8 @@ Backend Developer with **3+ years of experience** in building, enhancing, and ma
 <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 ---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
