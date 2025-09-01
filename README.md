@@ -27,13 +27,3 @@ Backend Developer with **4+ years of experience** in building, enhancing, and ma
 </p>
 
 
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAlshami&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAlshami&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
